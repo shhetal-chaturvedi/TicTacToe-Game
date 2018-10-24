@@ -164,7 +164,7 @@ public class Main {
       }
       System.out.println();
    }
-   //Print a cell with the specified "content"
+   /*Print a cell with the specified "content"*/
    public static void printCell(int content) {
       switch (content) 
       {
